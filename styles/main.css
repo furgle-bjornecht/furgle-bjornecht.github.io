@@ -32,3 +32,20 @@ nav {
 nav a{
    margin: 0 20px 0 20px;
 }
+
+#u-stinky {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1000px;
+    font-size: 25px;
+}
+
+#u-stinky {
+    animation: blinker 1s linear infinite;
+  }
+  
+  @keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+  }
