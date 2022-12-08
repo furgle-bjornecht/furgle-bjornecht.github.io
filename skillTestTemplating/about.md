@@ -2,7 +2,6 @@
 layout: default
 title: about
 ---
-{% include navigation.html %}
 
 # about
 
